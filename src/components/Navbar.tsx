@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
           <Image
-            src={"/logo.png"}
+            src={"/Logo.png"}
             alt="Ignacio Martello"
             width="90"
             height="90"
