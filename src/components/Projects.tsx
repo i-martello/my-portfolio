@@ -8,33 +8,33 @@ const Projects = () => {
     <div id='proyectos' className='w-full'>
       <div className='max-w-[1240px] mx-auto px-2 py-16'>
         <p className='text-xl tracking-widest uppercase text-[#5651e5]'>
-          Projects
+          Proyectos
         </p>
-        <h2 className='py-4'>What I&apos;ve Built</h2>
+        <h2 className='py-4'>¡Todos mis Trabajos! :)</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Property Finder'
+            title='Pokevirgo'
             backgroundImg='/pagina.jpg'
-            projectUrl='/property'
+            projectUrl='/pop'
             tech='React JS'
           />
           <ProjectItem
-            title='Crypto App'
+            title='La bruna (no existe)'
             backgroundImg='/pagina.jpg'
-            projectUrl='/crypto'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Netflix App'
-            backgroundImg='/pagina.jpg'
-            projectUrl='/netflix'
+            projectUrl='/pop'
             tech='React JS'
 
           />
           <ProjectItem
-            title='Twitch UI'
+            title='pagina para que valto la ponga'
             backgroundImg='/pagina.jpg'
+            projectUrl='/pop'
+            tech='React JS'
+
+          />
+          <ProjectItem
+            title='pagina q muestra la historia de racing (1500 A.C) para el bollo'
+            backgroundImg='/pop'
             projectUrl='/twitch'
             tech='Next JS'
 
