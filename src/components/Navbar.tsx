@@ -9,14 +9,15 @@ import { GiHamburgerMenu } from "react-icons/gi";
 const Navbar = () => {
   const [lists, setLists] = useState<string[]>([]);
   const [nav, setNav] = useState(false);
+  const [navBg, setNavBg] = useState('#ecf0f3');
   useEffect(() => {
     setLists([
-      "Inicio",
-      "Sobre Mi",
-      "Habilidades",
-      "Proyectos",
-      "Resumen",
-      "Contacto",
+      "inicio",
+      "sobre mi",
+      "habilidades",
+      "proyectos",
+      "resumen",
+      "contacto",
     ]);
   }, []);
 
@@ -25,7 +26,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="fixed w-full h-20 z-[100]">
+    <div style={{backgroundColor: navBg}} className="fixed w-full h-20 z-[100]">
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
           <Image
@@ -44,7 +45,7 @@ const Navbar = () => {
                   key={list}
                   className="ml-10 text-sm uppercase hover:border-b"
                 >
-                  <Link href={`/#${list === "Sobre Mi" ? "SobreMi" : list}`}>{list}</Link>
+                  <Link href={`/#${list === "sobre mi" ? "sobremi" : list}`}>{list}</Link>
                 </li>
               );
             })}
