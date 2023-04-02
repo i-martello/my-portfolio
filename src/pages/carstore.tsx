@@ -3,7 +3,7 @@ import React from "react";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
-const crypto = () => {
+const carstore = () => {
   return (
     <div className="w-full">
       <div className="w-screen h-[50vh] relative">
@@ -12,7 +12,7 @@ const crypto = () => {
           className="absolute z-1"
           layout="fill"
           objectFit="cover"
-          src=""
+          src="/carstore.PNG"
           alt="/"
         />
         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
@@ -37,14 +37,14 @@ const crypto = () => {
             duda.
           </p>
           <a
-            href="https://github.com/fireclint/crypto-react-firebase"
+            href="https://github.com/i-martello/Car-Store"
             target="_blank"
             rel="noreferrer"
           >
             <button className="px-8 py-2 mt-4 mr-8">Código</button>
           </a>
           <a
-            href="https://cryptobase-yt.web.app/"
+            href=""
             target="_blank"
             rel="noreferrer"
           >
@@ -84,4 +84,4 @@ const crypto = () => {
   );
 };
 
-export default crypto;
+export default carstore;

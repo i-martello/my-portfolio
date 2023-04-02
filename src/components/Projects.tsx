@@ -13,10 +13,10 @@ const Projects = () => {
         <h2 className='py-4'>¡Todos mis Trabajos! :)</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Pokevirgo'
-            backgroundImg='/pagina.jpg'
-            projectUrl='/crypto'
-            tech='React JS'
+            title='Tienda de Autos'
+            backgroundImg='/carstore.PNG'
+            projectUrl='/carstore'
+            tech='NextJS'
           />
           <ProjectItem
             title='La bruna (no existe)'
