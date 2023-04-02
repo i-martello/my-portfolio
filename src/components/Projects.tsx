@@ -15,7 +15,7 @@ const Projects = () => {
           <ProjectItem
             title='Pokevirgo'
             backgroundImg='/pagina.jpg'
-            projectUrl='/pop'
+            projectUrl='/crypto'
             tech='React JS'
           />
           <ProjectItem
