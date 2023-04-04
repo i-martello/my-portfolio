@@ -81,16 +81,6 @@ const Contact = () => {
                       name="name"
                     />
                   </div>
-                  <div className="flex flex-col">
-                    <label className="uppercase text-sm py-2">
-                      Phone Number
-                    </label>
-                    <input
-                      className="border-2 rounded-lg p-3 flex border-gray-300"
-                      type="text"
-                      name="phone"
-                    />
-                  </div>
                 </div>
                 <div className="flex flex-col py-2">
                   <label className="uppercase text-sm py-2">Email</label>
@@ -98,14 +88,6 @@ const Contact = () => {
                     className="border-2 rounded-lg p-3 flex border-gray-300"
                     type="email"
                     name="email"
-                  />
-                </div>
-                <div className="flex flex-col py-2">
-                  <label className="uppercase text-sm py-2">Subject</label>
-                  <input
-                    className="border-2 rounded-lg p-3 flex border-gray-300"
-                    type="text"
-                    name="subject"
                   />
                 </div>
                 <div className="flex flex-col py-2">
