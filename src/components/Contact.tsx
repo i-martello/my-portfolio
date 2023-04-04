@@ -35,24 +35,24 @@ const Contact = () => {
               <div>
                 <p className='uppercase pt-8'>Contactate conmigo!</p>
                 <div className='flex items-center justify-between py-4'>
-                  <a
-                    href=''
+                  <Link
+                    href='linkedin.com/in/ignacio-josé-martello-6559a5205'
                     target='_blank'
                     rel='noreferrer'
                   >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaLinkedinIn />
                     </div>
-                  </a>
-                  <a
-                    href=''
+                  </Link>
+                  <Link
+                    href='https://github.com/i-martello'
                     target='_blank'
                     rel='noreferrer'
                   >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaGithub />
                     </div>
-                  </a>
+                  </Link>
 
                   <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
