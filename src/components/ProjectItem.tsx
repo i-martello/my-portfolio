@@ -20,7 +20,7 @@ const ProjectItem = ({title, backgroundImg, tech, projectUrl}: ProjectItems) => 
             <p className='text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-lg cursor-pointer'>Más Info</p>
         </Link>
     </div>
- </div>
+  </div>
   )
 }
 

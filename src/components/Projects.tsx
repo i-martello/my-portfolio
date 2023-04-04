@@ -21,23 +21,22 @@ const Projects = () => {
           <ProjectItem
             title='DivertyWeb!'
             backgroundImg='/divertyweb.gif'
-            projectUrl='/pop'
+            projectUrl='/divertyweb'
             tech='React JS'
 
           />
           <ProjectItem
-            title='pagina para que valto la ponga'
-            backgroundImg='/pagina.jpg'
-            projectUrl='/pop'
+            title='ProyectoChat!'
+            backgroundImg='/ChatProyecto.PNG'
+            projectUrl='/proyectochat'
             tech='React JS'
 
           />
           <ProjectItem
-            title='pagina q muestra la historia de racing (1500 A.C) para el bollo'
-            backgroundImg='/pop'
-            projectUrl='/twitch'
+            title='Album'
+            backgroundImg='/AlbumWeb.PNG'
+            projectUrl='/albumweb'
             tech='Next JS'
-
           />
         </div>
       </div>
