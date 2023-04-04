@@ -36,7 +36,7 @@ const Contact = () => {
                 <p className='uppercase pt-8'>Contactate conmigo!</p>
                 <div className='flex items-center justify-between py-4'>
                   <Link
-                    href='linkedin.com/in/ignacio-josé-martello-6559a5205'
+                    href='https://www.linkedin.com/in/ignacio-jos%C3%A9-martello-6559a5205/'
                     target='_blank'
                     rel='noreferrer'
                   >
