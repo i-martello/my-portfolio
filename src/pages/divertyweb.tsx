@@ -30,10 +30,12 @@ const divertyweb = () => {
             tecnologías y lenguajes Front-End y Back-End, esta página contiene
             un inicio de sesión utilizando JsonWebToken (JWT) guardados en una
             base de datos MongoDB con contraseñas encriptadas con paquetes NPM
-            de NodeJS. La parte del Front-End está programada utilizando React y
-            distintos Hooks de este. No solo podes subir publicaciones!, sino
-            tambien comentarlos y opinar sobre aquello, como cualquier red
-            social de la actualidad.
+            de NodeJS. Las imagenes estan almacenadas en la base de datos pero
+            unicamente sus URL&apos;s, porque la imagen esta guardada en la nube
+            Cloudinary, Mongo unicamente almacena su URL como ya dicho. El
+            Front-End está programada utilizando React y distintos Hooks de
+            este. No solo podes subir publicaciones!, sino tambien comentarlos y
+            opinar sobre aquello, como cualquier red social de la actualidad.
           </p>
           <a
             href="https://github.com/i-martello/SocialMedia"
