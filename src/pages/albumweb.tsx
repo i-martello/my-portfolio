@@ -27,7 +27,7 @@ const albumweb = () => {
           <h2>Descripción</h2>
           <p>
             El proyecto tiene similitudes con la red social DivertyWeb (Que
-            tambien podras ver dando click <Link className="decoration-black" href="/divertyweb">acá</Link>)
+            tambien podras ver dando click <Link className="text-blue-500 underline font-bold" href="/divertyweb">acá</Link>)
             pero esta web tiene la particularidad que podes enviar tu imagen y
             esta se vera en la pagina principal con la resolución de la imagen
             sin deformar ni modificar. En la parte derecha verás las
