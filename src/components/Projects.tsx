@@ -19,8 +19,8 @@ const Projects = () => {
             tech='NextJS'
           />
           <ProjectItem
-            title='La bruna (no existe)'
-            backgroundImg='/pagina.jpg'
+            title='DivertyWeb!'
+            backgroundImg='/divertyweb.gif'
             projectUrl='/pop'
             tech='React JS'
 
