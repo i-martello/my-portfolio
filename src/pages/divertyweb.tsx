@@ -26,15 +26,14 @@ const divertyweb = () => {
           <p>Proyecto</p>
           <h2>Descripción</h2>
           <p>
-            La funcionalidad del proyecto, tal como dice el nombre, intenta
-            recrear una tienda de autos, con distintas funcionalidades y
-            utilidades. Te muestra una lista de los autos en venta y a la
-            lzquierda de este, la barra de navegación que contiene el buscador y
-            los filtros para buscar segun tus preferencias. Al seleccionar un
-            vehículo te envia a una ruta donde, no solo te muestra las
-            especificaciones del coche, sino que tambien un sector de
-            comentarios donde podes consultar con el dueño acerca de cualquier
-            duda.
+            El proyecto consta de una recreación de una red social, utilizando
+            tecnologías y lenguajes Front-End y Back-End, esta página contiene
+            un inicio de sesión utilizando JsonWebToken (JWT) guardados en una
+            base de datos MongoDB con contraseñas encriptadas con paquetes NPM
+            de NodeJS. La parte del Front-End está programada utilizando React y
+            distintos Hooks de este. No solo podes subir publicaciones!, sino
+            tambien comentarlos y opinar sobre aquello, como cualquier red
+            social de la actualidad.
           </p>
           <a
             href="https://github.com/i-martello/SocialMedia"
@@ -43,11 +42,7 @@ const divertyweb = () => {
           >
             <button className="px-8 py-2 mt-4 mr-8">Código</button>
           </a>
-          <a
-            href=""
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="" target="_blank" rel="noreferrer">
             <button className="px-8 py-2 mt-4">Ir a la página!</button>
           </a>
         </div>
