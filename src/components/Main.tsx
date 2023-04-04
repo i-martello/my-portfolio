@@ -22,26 +22,16 @@ const Main = () => {
             Estoy enfocado en crear aplicaciones web utilizando tecnologias Front-End y Back-End
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
-            <a>
+            <Link href="linkedin.com/in/ignacio-josé-martello-6559a5205">
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaLinkedinIn />
               </div>
-            </a>
-            <a>
+            </Link>
+            <Link href="https://github.com/i-martello">
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaGithub />
               </div>
-            </a>
-            <a>
-              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                <AiOutlineMail />
-              </div>
-            </a>
-            <a>
-              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                <BsFillPersonLinesFill />
-              </div>
-            </a>            
+            </Link>          
           </div>
         </div>
       </div>
