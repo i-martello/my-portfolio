@@ -15,7 +15,7 @@ const About = () => {
             Yo me especializo en el Desarrollo de Aplicaciones Web Full-Stack,
             Tengo una gran ambicion y motivación por la programación, tengo la
             suerte que siempre supe estudiar lo que me gusta y tengo siempre
-            entusiasmo pero colaborar, programar y trabajar en equipo! :)
+            entusiasmo para colaborar, programar y trabajar en equipo! :)
           </p>
           <p className="py-2 text-gray-600">
             Desde desde que inicié mi adolescencia me encanta programar, decidi
