@@ -37,7 +37,7 @@ const proyectochat = () => {
             con el cual identificarán quien envió el mensaje.
           </p>
           <a
-            href="https://github.com/i-martello/SocialMedia"
+            href="https://github.com/i-martello/Proyecto-Chat"
             target="_blank"
             rel="noreferrer"
           >

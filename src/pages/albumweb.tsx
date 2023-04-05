@@ -40,7 +40,7 @@ const albumweb = () => {
             plantilla como Handlebars para elaborar el html y el frontend.
           </p>
           <a
-            href="https://github.com/i-martello/SocialMedia"
+            href="https://github.com/i-martello/Project-Personal"
             target="_blank"
             rel="noreferrer"
           >

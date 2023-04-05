@@ -38,7 +38,7 @@ const divertyweb = () => {
             opinar sobre aquello, como cualquier red social de la actualidad.
           </p>
           <a
-            href="https://github.com/i-martello/SocialMedia"
+            href="https://github.com/i-martello/SocialMediaMERN"
             target="_blank"
             rel="noreferrer"
           >
