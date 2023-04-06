@@ -5,11 +5,11 @@ const Skills = () => {
   return (
     <div id="habilidades" className="w-full  py-10">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full">
-        <p className="text-xl tracking-widest uppercase text-[#5651e5]">
+        <p className="text-xl tracking-widest uppercase text-[#0A66C2]">
           Habilidades
         </p>
         <div className="mb-12">
-          <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#5651e5] antialiased">
+          <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased">
             Front-End
           </h1>
           <div className="grid grid-cols-2 gap-10">
@@ -143,7 +143,7 @@ const Skills = () => {
           </div>
         </div>
         <div>
-          <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#5651e5] antialiased">
+          <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased">
             Back-End
           </h1>
           <div className="grid grid-cols-2 gap-10">

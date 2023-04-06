@@ -15,8 +15,7 @@ const Navbar = () => {
       "inicio",
       "sobre mi",
       "habilidades",
-      "proyectos",
-      "contacto",
+      "proyectos"
     ]);
   }, []);
 

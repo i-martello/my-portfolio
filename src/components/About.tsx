@@ -7,7 +7,7 @@ const About = () => {
     <div id="sobremi" className="w-full md:h-[95vh] p-2 flex items-center py-4">
       <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8">
         <div className="col-span-2">
-          <p className="uppercase text-x1 tracking-widest text-[#5651e5]">
+          <p className="uppercase text-x1 tracking-widest text-[#0A66C2]">
             Sobre Mi
           </p>
           <h2 className="py-4">¿Quien soy yo?</h2>

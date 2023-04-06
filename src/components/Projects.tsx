@@ -7,7 +7,7 @@ const Projects = () => {
   return (
     <div id='proyectos' className='w-full'>
       <div className='max-w-[1240px] md:h-[100vh] mx-auto px-2 py-20'>
-        <p className='text-xl tracking-widest uppercase text-[#5651e5]'>
+        <p className='text-xl tracking-widest uppercase text-[#0A66C2]'>
           Proyectos
         </p>
         <h2 className='py-4'>¡Todos mis Trabajos! :)</h2>
