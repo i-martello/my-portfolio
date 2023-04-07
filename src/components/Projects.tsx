@@ -6,7 +6,7 @@ import ProjectItem from '../components/ProjectItem'
 const Projects = () => {
   return (
     <div id='proyectos' className='w-full'>
-      <div className='max-w-[1240px] md:h-[100vh] mx-auto px-2 py-20'>
+      <div className='max-w-[1240px] mx-auto px-2 py-20'>
         <p className='text-xl tracking-widest uppercase text-[#0A66C2]'>
           Proyectos
         </p>
@@ -37,6 +37,12 @@ const Projects = () => {
             backgroundImg='/AlbumWeb.PNG'
             projectUrl='/albumweb'
             tech='NodeJS/Express'
+          />
+          <ProjectItem
+            title='Actualizador Precios'
+            backgroundImg='/ExcelPrecios.PNG'
+            projectUrl='/excelprecios'
+            tech='NodeJS/Express/Handlebars'
           />
         </div>
       </div>
