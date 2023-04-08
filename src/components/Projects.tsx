@@ -1,49 +1,57 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import React from 'react';
-import ProjectItem from '../components/ProjectItem'
+import Image from "next/image";
+import Link from "next/link";
+import React from "react";
+import ProjectItem from "../components/ProjectItem";
 
 const Projects = () => {
   return (
-    <div id='proyectos' className='w-full'>
-      <div className='max-w-[1240px] mx-auto px-2 py-20'>
-        <p className='text-xl tracking-widest uppercase text-[#0A66C2]'>
+    <div id="proyectos" className="w-full">
+      <div className="max-w-[1240px] mx-auto px-2 py-20">
+        <p className="text-xl tracking-widest uppercase text-[#0A66C2]">
           Proyectos
         </p>
-        <h2 className='py-4'>¡Todos mis Trabajos! :)</h2>
-        <div className='grid md:grid-cols-2 gap-8'>
+        <h2 className="py-4">¡Todos mis Trabajos! :)</h2>
+        <label className="flex font-sans text-4xl m-10 font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased ">Proyectos Personales</label>
+        <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
-            title='Tienda de Autos'
-            backgroundImg='/carstore.PNG'
-            projectUrl='/carstore'
-            tech='NextJS'
+            title="Tienda de Autos"
+            backgroundImg="/carstore.PNG"
+            projectUrl="/carstore"
+            tech="NextJS"
           />
           <ProjectItem
-            title='DivertyWeb!'
-            backgroundImg='/divertyweb.gif'
-            projectUrl='/divertyweb'
-            tech='React JS'
-
+            title="DivertyWeb!"
+            backgroundImg="/divertyweb.gif"
+            projectUrl="/divertyweb"
+            tech="React JS"
           />
           <ProjectItem
-            title='ProyectoChat!'
-            backgroundImg='/ChatProyecto.PNG'
-            projectUrl='/proyectochat'
-            tech='React JS'
-
+            title="ProyectoChat!"
+            backgroundImg="/ChatProyecto.PNG"
+            projectUrl="/proyectochat"
+            tech="React JS"
           />
           <ProjectItem
-            title='Album'
-            backgroundImg='/AlbumWeb.PNG'
-            projectUrl='/albumweb'
-            tech='NodeJS/Express'
+            title="Album"
+            backgroundImg="/AlbumWeb.PNG"
+            projectUrl="/albumweb"
+            tech="NodeJS/Express"
           />
-          <ProjectItem
-            title='Actualizador Precios'
-            backgroundImg='/ExcelPrecios.PNG'
-            projectUrl='/excelprecios'
-            tech='NodeJS/Express/Handlebars'
-          />
+        </div>
+        <label className="flex font-sans text-4xl m-10 font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased ">Proyectos Laborales</label>
+        <div className="grid md:grid-cols-2 gap-8">
+        <ProjectItem
+          title="Actualizador Precios"
+          backgroundImg="/ExcelPrecios.PNG"
+          projectUrl="/excelprecios"
+          tech="NodeJS/Express/Handlebars"
+        />
+        <ProjectItem
+          title="Control Cyber"
+          backgroundImg="/CyberProgramaVideo.gif"
+          projectUrl="/cybercontrol"
+          tech="NextJS/TypeScript/MongoDB"
+        />
         </div>
       </div>
     </div>
