@@ -68,7 +68,7 @@ const divertyweb = () => {
                 <RiRadioButtonFill className="pr-1" /> Express
               </p>
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Json Web Token
+                <RiRadioButtonFill className="pr-1" /> JSON Web Token
               </p>
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" /> Cloudinary
