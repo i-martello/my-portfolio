@@ -31,7 +31,8 @@ const cybercontrol = () => {
             cronometro y de ahi en adelante van sumando el tiempo y el dinero
             que tiene que gastar el cliente. Al finalizar, el tiempo y el precio
             se guarda en una base de datos para mostrarse en pantalla el
-            historial con los precios, tiempo transcurrido y la fecha de la sesión
+            historial con los precios, tiempo transcurrido y la fecha de la
+            sesión
             <strong> Proyecto laboral hecho para CopyArt!</strong>
           </p>
           <a
@@ -47,7 +48,7 @@ const cybercontrol = () => {
             <p className="text-center font-bold pb-2">Tecnologias</p>
             <div className="grid grid-cols-3 md:grid-cols-1 ">
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> React
+                <RiRadioButtonFill className="pr-1" /> NextJS
               </p>
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" /> Tailwind
@@ -56,19 +57,10 @@ const cybercontrol = () => {
                 <RiRadioButtonFill className="pr-1" /> Javascript
               </p>
               <p className="text-gray-600 py-2 flex items-center">
+                <RiRadioButtonFill className="pr-1" /> Axios
+              </p>
+              <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" /> MongoDB
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Node
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Express
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> JWT
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Cloudinary
               </p>
             </div>
           </div>
