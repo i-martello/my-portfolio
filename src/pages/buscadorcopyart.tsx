@@ -26,7 +26,7 @@ const buscadorcopyart = () => {
           <p>Proyecto</p>
           <h2>Descripción</h2>
           <p>
-            Este proyecto lo hice porque la copyArt necesitaba una manera de
+            Este proyecto lo hice porque CopyArt necesitaba una manera de
             poner buscar los precios por que pegarlos en los estantes se volvia
             muy tedioso por la creciente inflación. Entonces diseñe esta página
             donde solo muestra la lista de precios, sino tambien su foto y un
