@@ -29,7 +29,7 @@ const buscadorcopyart = () => {
             Este proyecto lo hice porque CopyArt necesitaba una manera de
             buscar los precios por que pegarlos en los estantes se volvia
             muy tedioso por la creciente inflación. Entonces diseñe esta página
-            donde solo muestra la lista de precios, sino tambien su foto y un
+            donde no solo muestra la lista de precios, sino tambien su foto y un
             buscador para poder buscarlo el precio y encontrarlo por su nombre.
             <strong> Proyecto laboral hecho para CopyArt!</strong>
           </p>
