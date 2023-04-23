@@ -1,9 +1,9 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { RiRadioButtonFill } from "react-icons/ri";
-import Link from "next/link";
 
-const albumweb = () => {
+const buscadorcopyart = () => {
   return (
     <div className="w-full">
       <div className="w-screen h-[50vh] relative">
@@ -12,12 +12,12 @@ const albumweb = () => {
           className="absolute z-1"
           layout="fill"
           objectFit="cover"
-          src="/AlbumWeb.PNG"
+          src="/divertyweb.gif"
           alt="/"
         />
         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
-          <h2 className="py-2">AlbumWeb!</h2>
-          <h3>React / Javascript / MongoDB / Tailwind / NodeJS</h3>
+          <h2 className="py-2">Buscador CopyArt</h2>
+          <h3>NodeJS / Express / MongoDB / React </h3>
         </div>
       </div>
 
@@ -26,49 +26,49 @@ const albumweb = () => {
           <p>Proyecto</p>
           <h2>Descripción</h2>
           <p>
-            El proyecto tiene similitudes con la red social DivertyWeb (Que
-            tambien podras ver dando click <Link className="text-blue-500 underline font-bold" href="/divertyweb">acá</Link>)
-            pero esta web tiene la particularidad que podes enviar tu imagen y
-            esta se vera en la pagina principal con la resolución de la imagen
-            sin deformar ni modificar. En la parte derecha verás las
-            estadísticas generales donde visualizamos la cantidad de
-            publicaciones, comentarios y likes totales. Y en el sector inferior
-            a la derecha podrás ver, en orden, las publicaciones con mayor
-            cantidad de likes. El proyecto este tiene una gran particularidad a
-            diferencia de DivertyWeb, AlbumWeb esta creado únicamente utilizando
-            tecnologías backend como NodeJS, Express, MongoDB y motores de
-            plantilla como Handlebars para elaborar el html y el frontend.
+            Este proyecto lo hice porque la copyArt necesitaba una manera de
+            poner buscar los precios por que pegarlos en los estantes se volvia
+            muy tedioso por la creciente inflación. Entonces diseñe esta página
+            donde solo muestra la lista de precios, sino tambien su foto y un
+            buscador para poder buscarlo el precio y encontrarlo por su nombre.
+            <strong> Proyecto laboral hecho para CopyArt!</strong>
           </p>
           <a
-            href="https://github.com/i-martello/Project-Personal"
+            href="https://github.com/i-martello/BuscarPreciosCopyArt"
             target="_blank"
             rel="noreferrer"
           >
             <button className="px-8 py-2 mt-4 mr-8">Código</button>
+          </a>
+          <a
+            href="https://buscador-copyart.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="px-8 py-2 mt-4 mr-8">Ir a la página!</button>
           </a>
         </div>
         <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4">
           <div className="p-2">
             <p className="text-center font-bold pb-2">Tecnologias</p>
             <div className="grid grid-cols-3 md:grid-cols-1 ">
-
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> JavaScript
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> MongoDB
-              </p>
-              <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Node
+                <RiRadioButtonFill className="pr-1" /> NodeJS
               </p>
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" /> Express
               </p>
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Handlebars
+                <RiRadioButtonFill className="pr-1" /> JavaScript
               </p>
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> Bootstrap 5
+                <RiRadioButtonFill className="pr-1" /> TypeScript
+              </p>
+              <p className="text-gray-600 py-2 flex items-center">
+                <RiRadioButtonFill className="pr-1" /> React
+              </p>
+              <p className="text-gray-600 py-2 flex items-center">
+                <RiRadioButtonFill className="pr-1" /> MongoDB
               </p>
             </div>
           </div>
@@ -81,4 +81,4 @@ const albumweb = () => {
   );
 };
 
-export default albumweb;
+export default buscadorcopyart;
