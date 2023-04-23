@@ -52,6 +52,12 @@ const Projects = () => {
           projectUrl="/cybercontrol"
           tech="NextJS/TypeScript/MongoDB"
         />
+        <ProjectItem
+          title="Buscador CopyArt"
+          backgroundImg="/buscadorCopyART.gif"
+          projectUrl="/buscadorcopyart"
+          tech="NodeJS/Express/MongoDB/React"
+        />
         </div>
       </div>
     </div>
