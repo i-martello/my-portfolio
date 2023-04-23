@@ -30,7 +30,7 @@ const buscadorcopyart = () => {
             buscar los precios por que pegarlos en los estantes se volvia
             muy tedioso por la creciente inflación. Entonces diseñe esta página
             donde no solo muestra la lista de precios, sino tambien su foto y un
-            buscador para poder buscarlo el precio y encontrarlo por su nombre.
+            buscador para encontrarlo por su nombre y saber su precio.
             <strong> Proyecto laboral hecho para CopyArt!</strong>
           </p>
           <a
