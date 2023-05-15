@@ -41,12 +41,6 @@ const Projects = () => {
         <label className="flex font-sans text-4xl m-10 font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased ">Proyectos Laborales</label>
         <div className="grid md:grid-cols-2 gap-8">
         <ProjectItem
-          title="Actualizador Precios"
-          backgroundImg="/ExcelPrecios.PNG"
-          projectUrl="/excelprecios"
-          tech="NodeJS/Express/Handlebars"
-        />
-        <ProjectItem
           title="Control Cyber"
           backgroundImg="/CyberProgramaVideo.gif"
           projectUrl="/cybercontrol"
