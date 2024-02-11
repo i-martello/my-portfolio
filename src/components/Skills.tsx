@@ -29,7 +29,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[90%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     9/10
                   </div>
                 </div>
@@ -46,7 +46,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[75%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     7.5/10
                   </div>
                 </div>
@@ -68,7 +68,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -90,7 +90,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[70%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     7/10
                   </div>
                 </div>
@@ -112,7 +112,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -134,7 +134,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -183,7 +183,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[75%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     7.5/10
                   </div>
                 </div>
@@ -205,7 +205,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -227,7 +227,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[70%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     7/10
                   </div>
                 </div>
@@ -249,7 +249,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -271,7 +271,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[90%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     9/10
                   </div>
                 </div>
@@ -300,7 +300,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     8/10
                   </div>
                 </div>
@@ -322,7 +322,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[65%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     6.5/10
                   </div>
                 </div>
@@ -344,7 +344,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[90%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     9/10
                   </div>
                 </div>
@@ -366,7 +366,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="w-[90%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
-                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                  <div className="bg-primary text-white p-0.5 text-center text-xs font-medium leading-none text-primary-100">
                     9/10
                   </div>
                 </div>
