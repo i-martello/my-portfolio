@@ -33,7 +33,7 @@ const buscadorcopyart = () => {
             <strong> Proyecto laboral hecho para CopyArt!</strong>
           </p>
           <a
-            href="https://github.com/i-martello/BuscarPreciosCopyArt"
+            href="https://github.com/i-martello/project-flask-api.git"
             target="_blank"
             rel="noreferrer"
           >
