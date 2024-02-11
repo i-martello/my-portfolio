@@ -40,7 +40,7 @@ const buscadorcopyart = () => {
             <button className="px-8 py-2 mt-4 mr-8">Código</button>
           </a>
           <a
-            href="https://buscador-copyart.vercel.app/"
+            href="https://precioscopyart.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
