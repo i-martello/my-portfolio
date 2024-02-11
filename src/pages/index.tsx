@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Mi Portafolio!</title>
+        <title>Mi Portfolio!</title>
         <meta name="description" content="Mi CV y mis proyectos personales y laborales :)" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/Logo.png"></link>

@@ -12,18 +12,18 @@ const About = () => {
           </p>
           <h2 className="py-4">¿Quien soy yo?</h2>
           <p className="py-4 text-gray-600">
-            Yo me especializo en el Desarrollo de Aplicaciones Web Full-Stack,
-            Tengo una gran ambición y motivación por la programación, tengo la
-            suerte que siempre supe estudiar lo que me gusta y tengo siempre
+            Yo me especializo en el análisis de datos y una gran ambición y motivación por la programación, 
+            me destaco como un analista de datos experto en Python, con habilidades tanto en SQL,
+            trabajando con bases de datos No-SQL y SQL como MongoDB y MySQL.
+            tengo la suerte que siempre supe estudiar lo que me gusta y tengo siempre
             entusiasmo para colaborar, programar y trabajar en equipo! :)
           </p>
           <p className="py-2 text-gray-600">
-            Desde que inicié mi adolescencia me encanta programar, decidí
-            estudiarlo en la secundaria y actualmente lo estudió en la
-            Universidad (UTN). A medida que fui aprendiendo, adquirí
-            conocimiento para el desarrollo con tecnologías Back-End y
-            Front-End, como también manejar Bases de Datos No-SQL y tecnologías
-            de desarrollo en la Nube.
+            Desde mi adolescencia, me fascina explorar y analizar datos,
+            lo que me llevó a especializarme en este campo, tanto durante mis estudios secundarios como en la Universidad Tecnologica Nacional (UTN).
+            A lo largo de mi trayectoria, he desarrollado competencias en el manejo de tecnologías de desarrollo en la Nube y 
+            en la implementación de soluciones integrales para el análisis y visualización de datos,
+            demostrando siempre un entusiasmo contagioso por colaborar y trabajar en equipo.
           </p>
           <Link href="/#proyectos">
             <p className="py-2 text-gray-600 underline cursor-pointer">

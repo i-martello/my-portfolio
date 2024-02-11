@@ -10,6 +10,143 @@ const Skills = () => {
         </p>
         <div className="mb-12">
           <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased">
+            Analisis de Datos
+          </h1>
+          <div className="grid grid-cols-2 gap-10">
+            <div className="gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image
+                      src="/python.png"
+                      alt="Python"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>Python</h3>
+                  </div>
+                </div>
+                <div className="w-[90%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    9/10
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className=" gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image src="/pandas.png" alt="Pandas" width={85} height={70} />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>Pandas</h3>
+                  </div>
+                </div>
+                <div className="w-[75%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    7.5/10
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image
+                      src="/numpy.png"
+                      alt="NumPy"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>NumPy</h3>
+                  </div>
+                </div>
+                <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    8/10
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image
+                      src="/sklearn.png"
+                      alt="Sklearn"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>Scikit-Learn</h3>
+                  </div>
+                </div>
+                <div className="w-[70%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    7/10
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image
+                      src="/mysql.png"
+                      alt="MySql"
+                      width={70}
+                      height={70}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>MySql</h3>
+                  </div>
+                </div>
+                <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    8/10
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className=" gap-8">
+              <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                <div className="grid grid-cols-2 gap-4 h-[64px] justify-center items-center">
+                  <div className="m-auto">
+                    <Image
+                      src="/mongodb.png"
+                      alt="MongoDB"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                  <div className="flex flex-col items-center justify-center">
+                    <h3>MongoDB</h3>
+                  </div>
+                </div>
+                <div className="w-[80%] mt-5 bg-green-400 dark:bg-neutral-600 rounded-lg">
+                  <div className="bg-primary p-0.5 text-center text-xs font-medium leading-none text-primary-100">
+                    8/10
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p className="text-xl tracking-widest uppercase text-[#0A66C2]">
+          Desarrollo Web
+        </p>
+        <div className="mb-12">
+          <h1 className="block font-sans text-5xl font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased">
             Front-End
           </h1>
           <div className="grid grid-cols-2 gap-10">
