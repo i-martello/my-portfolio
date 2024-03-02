@@ -23,7 +23,7 @@ const Projects = () => {
           title="Buscador CopyArt"
           backgroundImg="/buscadorCopyART.gif"
           projectUrl="/buscadorcopyart"
-          tech="NodeJS/Express/MongoDB/React"
+          tech="Python/Pandas/MongoDB/React"
         />
         </div>
         <label className="flex font-sans text-4xl m-10 font-semibold leading-tight tracking-widest text-[#0A66C2] antialiased ">Proyectos Personales</label>
