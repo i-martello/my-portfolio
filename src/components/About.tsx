@@ -13,13 +13,13 @@ const About = () => {
           <h2 className="py-4">¿Quien soy yo?</h2>
           <p className="py-4 text-gray-600">
             Yo me especializo en el análisis de datos y una gran ambición y motivación por la programación, 
-            me destaco como un analista de datos experto en Python, con habilidades tanto en SQL,
+            me destaco desarrollador experto en Python, con habilidades tanto en SQL,
             trabajando con bases de datos No-SQL y SQL como MongoDB y MySQL.
             tengo la suerte que siempre supe estudiar lo que me gusta y tengo siempre
             entusiasmo para colaborar, programar y trabajar en equipo! :)
           </p>
           <p className="py-2 text-gray-600">
-            Desde mi adolescencia, me fascina explorar y analizar datos,
+            Desde mi adolescencia, me fascina explorar, analizar equipos y buscar vulnerabilidades,
             lo que me llevó a especializarme en este campo, tanto durante mis estudios secundarios como en la Universidad Tecnologica Nacional (UTN).
             A lo largo de mi trayectoria, he desarrollado competencias en el manejo de tecnologías de desarrollo en la Nube y 
             en la implementación de soluciones integrales para el análisis y visualización de datos,

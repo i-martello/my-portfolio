@@ -15,9 +15,9 @@ const Main = () => {
           <h1 className="py-4 text-gray-700">
             Hola!, soy <span className="text-[#0A66C2]">Ignacio Martello</span>
           </h1>
-          <h1 className="py-2 text-gray-700">Analista de Datos</h1>
+          <h1 className="py-2 text-gray-700">Software Engineer</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-          Analista de datos altamente capacitado con experiencia en el análisis y visualización de datos para crear soluciones innovadoras.
+          Software Engineer con experiencia en diseño, desarrollo y optimización de aplicaciones escalables, apasionado por resolver problemas complejos con soluciones innovadoras y eficientes.
           </p>
           <div className="flex items-center justify-between py-4">
             <Link
